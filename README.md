@@ -14,11 +14,17 @@ Linkedin: [@oguzduran](https://www.linkedin.com/in/oguzduran/)
 - JavaScript
 - React, Next.js, Hooks, Redux
 - GraphQL
+- Apollo GraphQl
 - ESLint, Prettier
 
 ### Backend Technologies I use
 
 - Node.js
-- Express.js
-- GraphQL
+- .Net
+
+### Database Technologies I use
+
+- PostgreSql
 - MongoDB
+- MYSQL
+- MSSQL
