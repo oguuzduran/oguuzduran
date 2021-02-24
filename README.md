@@ -9,7 +9,8 @@ Linkedin: [@oguzduran](https://www.linkedin.com/in/oguzduran/)
 
 ### Frontend Technologies I use
 
-- HTML, CSS
+- HTML
+- CSS
 - JavaScript
 - React, Next.js, Hooks, Redux
 - GraphQL
